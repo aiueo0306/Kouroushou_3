@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 07 Dec 2025 07:09:31 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 19 Dec 2025 02:53:52 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,49 +9,45 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】【2025-12-04】第206回
+開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】【2025-12-18】第208回
 
 
-2025年12月4日（令和7年12月4日）
+2025年12月18日（令和7年12月18日）
 
-	医療保険制度における出産に対する支援の強化について
+	外来特例を始めとする医療保険制度改革についてヒアリング
 	医療保険制度改革について
-	令和８年度診療報酬改定の基本方針について
-	「強い経済」を実現する総合経済対策～日本と日本人の底力で不安を希望に変える～について（報告）
-	令和７年度補正予算案（保険局関係）の主な事項について（報告）
+	マイナ保険証の利用促進等について
 
 
 －
 
 資料等NEW
-12月4日
+12月18日
 
 
 
 
 開催案内NEW
-12月2日</title><link>https://www.mhlw.go.jp/stf/newpage_66487.html</link><description>第206回
+12月16日</title><link>https://www.mhlw.go.jp/stf/newpage_67220.html</link><description>第208回
 
 
-2025年12月4日（令和7年12月4日）
+2025年12月18日（令和7年12月18日）
 
-	医療保険制度における出産に対する支援の強化について
+	外来特例を始めとする医療保険制度改革についてヒアリング
 	医療保険制度改革について
-	令和８年度診療報酬改定の基本方針について
-	「強い経済」を実現する総合経済対策～日本と日本人の底力で不安を希望に変える～について（報告）
-	令和７年度補正予算案（保険局関係）の主な事項について（報告）
+	マイナ保険証の利用促進等について
 
 
 －
 
 資料等NEW
-12月4日
+12月18日
 
 
 
 
 開催案内NEW
-12月2日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_66487.html#20251204</guid><pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+12月16日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_67220.html#20251218</guid><pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -61,7 +57,31 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】【2025-12-22】第132回
+
+
+2025年12月22日（令和7年12月22日）
+
+	とりまとめに向けた議論
+	その他
+
+
+－
+－
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第132回
+
+
+2025年12月22日（令和7年12月22日）
+
+	とりまとめに向けた議論
+	その他
+
+
+－
+－
+
+開催案内</description><guid isPermaLink="false">urn:newsitem:4e203f4209ea3784257f42324467c2ffb89d9313</guid><pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -71,7 +91,35 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-12-19】第251回
+
+
+2025年12月19日（令和7年12月19日）
+１． 令和８年度介護報酬改定 審議報告のとりまとめに向けて
+－
+
+資料NEW
+12月19日
+
+
+
+
+開催案内NEW
+12月18日</title><link>https://www.mhlw.go.jp/stf/newpage_67343.html</link><description>第251回
+
+
+2025年12月19日（令和7年12月19日）
+１． 令和８年度介護報酬改定 審議報告のとりまとめに向けて
+－
+
+資料NEW
+12月19日
+
+
+
+
+開催案内NEW
+12月18日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_67343.html#20251219</guid><pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -81,20 +129,4 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2025-12-08】第122回
-
-
-2025年12月8日（令和7年12月8日）
-－
-－
-－
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第122回
-
-
-2025年12月8日（令和7年12月8日）
-－
-－
-－
-
-開催案内</description><guid isPermaLink="false">urn:newsitem:81dbcf461582a4c55a49122235eb10d53aa41046</guid><pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item></channel></rss>
