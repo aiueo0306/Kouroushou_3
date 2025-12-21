@@ -1,120 +1,133 @@
+from feedgen.feed import FeedGenerator
+from datetime import datetime, timezone
 import os
-import sys
-import subprocess
-import tempfile
-import re
-import time
-import datetime
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from urllib.parse import urljoin
+import requests
+from bs4 import BeautifulSoup
 
-# ===== GitHub 上の共通関数を一時ディレクトリにクローン =====
-REPO_URL = "https://github.com/aiueo0306/shared-python-env.git"
-SHARED_DIR = os.path.join(tempfile.gettempdir(), "shared-python-env")
+BASE_URL = "https://www.mhlw.go.jp/stf/shingi/indexshingi.html"
 
-if not os.path.exists(SHARED_DIR):
-    print("🔄 共通関数を初回クローン中...")
-    subprocess.run(["git", "clone", "--depth", "1", REPO_URL, SHARED_DIR], check=True)
-else:
-    print("🔁 共通関数を更新中...")
-    subprocess.run(["git", "-C", SHARED_DIR, "pull"], check=True)
 
-sys.path.append(SHARED_DIR)
+# ==================================================
+# RSS生成（UTF-8 BOM付きで保存：Windows文字化け対策）
+# GUIDは URL + 更新日（同一URLでも更新日が変われば別アイテム扱いになりやすい）
+# ==================================================
+def generate_rss(items, output_path):
+    fg = FeedGenerator()
+    fg.title("審議会・研究会等（NEW）")
+    fg.link(href=BASE_URL)
+    fg.description("厚生労働省 審議会・研究会等のNEW更新のみ")
+    fg.language("ja")
 
-# ===== 共通関数のインポート =====
-from rss_utils import generate_rss
-from scraper_utils import extract_items
-from browser_utils import click_button_in_order
-from browser_utils import click_button_in_order
+    for item in items:
+        entry = fg.add_entry()
+        entry.title(item["title"])
+        entry.link(href=item["link"])
+        entry.description(item["description"])
 
-# ===== 固定情報（学会サイト） =====
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
-GAKKAI = "社会保障審議会（介護給付費分科会）"
+        # ✅ GUID：URLだけだと既読固定になりがちなので「URL#日付」にする
+        # pubdateが無い場合はURLのみ（保険）
+        if item.get("pubdate"):
+            guid = f'{item["link"]}#{item["pubdate"]}'
+        else:
+            guid = item["link"]
+        entry.guid(guid, permalink=False)
 
-SELECTOR_TITLE = "table.m-tableFlex tr"
-title_selector = ""
-title_index = 0
-href_selector = "a"
-href_index = 1
-SELECTOR_DATE = "table.m-tableFlex tr"
-date_selector = ""
-date_index = 0
-year_unit = "年"
-month_unit = "月"
-day_unit = "日"
-date_format = f"%Y{year_unit}%m{month_unit}%d{day_unit}"
-date_regex = rf"(\d{{2,4}}){year_unit}(\d{{1,2}}){month_unit}(\d{{1,2}}){day_unit}"
+        # ✅ pubDate：ページ側の更新日を優先
+        if item.get("pubdate"):
+            # time datetime="YYYY-MM-DD" を UTC の 00:00 として扱う
+            dt = datetime.fromisoformat(item["pubdate"]).replace(tzinfo=timezone.utc)
+            entry.pubDate(dt)
+        else:
+            entry.pubDate(datetime.now(timezone.utc))
 
-# ===== ポップアップ順序クリック設定 =====
-POPUP_MODE = 0  # 1: 実行 / 0: スキップ
-POPUP_BUTTONS = [""]  # 正確なボタン表記だけを指定
-WAIT_BETWEEN_POPUPS_MS = 500
-BUTTON_TIMEOUT_MS = 12000
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-# ===== Playwright 実行ブロック =====
-with sync_playwright() as p:
-    print("▶ ブラウザを起動中...")
-    # 無人実行：headless=True のまま（UA/viewport を人間同等にするのも有効）
-    browser = p.chromium.launch(headless=True)
-    context = browser.new_context(
-        locale="ja-JP",
-        viewport={"width": 1366, "height": 900},
-        user_agent=(
+    # FeedGeneratorはUTF-8 bytesを返す → BOM付きで保存（メモ帳でも文字化けしない）
+    rss_text = fg.rss_str(pretty=True).decode("utf-8")
+    with open(output_path, "w", encoding="utf-8-sig", newline="\n") as f:
+        f.write(rss_text)
+
+
+# ==================================================
+# NEW項目取得（span.m-listLink__link 単位で正確判定）
+# ==================================================
+def fetch_items_new_only():
+    headers = {
+        "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/120.0.0.0 Safari/537.36"
         ),
-        extra_http_headers={"Accept-Language": "ja,en;q=0.8"},
-    )
-    page = context.new_page()
+        "Accept-Language": "ja-JP,ja;q=0.9",
+    }
+
+    r = requests.get(BASE_URL, headers=headers, timeout=30)
+    r.raise_for_status()
+
+    # 厚労省ページはUTF-8想定で固定（誤判定回避）
+    html = r.content.decode("utf-8", errors="replace")
+    soup = BeautifulSoup(html, "html.parser")
+
+    items = []
+    seen = set()  # 「URL#日付」で重複排除する
+
+    # ★ 重要：span.m-listLink__link 単位で NEW 判定
+    for span in soup.select("span.m-listLink__link"):
+
+        # この span 自体に NEW アイコンがあるか？
+        if not span.select_one(".m-icnNew, .toggleIcnNew"):
+            continue
+
+        a = span.select_one("a[href]")
+        if not a:
+            continue
+
+        title = " ".join(a.get_text(" ", strip=True).split())
+        link = urljoin(BASE_URL, a.get("href"))
+
+        # 更新日（<time datetime="YYYY-MM-DD">）
+        time_tag = span.select_one("time[datetime]")
+        pubdate = time_tag["datetime"] if time_tag else None
+
+        description = title
+        if pubdate:
+            description = f"{title}（更新日: {pubdate}）"
+
+        # ✅ 重複排除：GUIDに合わせて URL#pubdate をキーにする
+        key = f"{link}#{pubdate}" if pubdate else link
+        if key in seen:
+            continue
+        seen.add(key)
+
+        items.append({
+            "title": title,
+            "link": link,
+            "description": description,
+            "pubdate": pubdate,  # "YYYY-MM-DD" or None
+        })
+
+    return items
+
+
+# ==================================================
+# メイン処理
+# ==================================================
+if __name__ == "__main__":
+    print("▶ ページHTMLを取得中（requests）...")
 
     try:
-        print("▶ ページにアクセス中...")
-        page.goto(BASE_URL, timeout=30000)
-        try:
-            page.wait_for_load_state("networkidle", timeout=30000)
-        except Exception:
-            page.wait_for_load_state("domcontentloaded")
-        print("🌐 到達URL:", page.url)
+        items = fetch_items_new_only()
+    except Exception as e:
+        print("⚠ 取得に失敗しました:", e)
+        raise SystemExit(1)
 
-        # ---- ポップアップ順に処理 ----
-        if POPUP_MODE == 1 and POPUP_BUTTONS:
-            for i, label in enumerate(POPUP_BUTTONS, start=1):
-                handled = click_button_in_order(page, label, step_idx=i, timeout_ms=BUTTON_TIMEOUT_MS)
-                if handled:
-                    page.wait_for_timeout(WAIT_BETWEEN_POPUPS_MS)
-                else:
-                    break  # 次に進めたい場合は continue に
-        else:
-            print("ℹ ポップアップ処理をスキップ（POPUP_MODE=0）")
-
-        # 本文読み込み
-        page.wait_for_load_state("load", timeout=30000)
-
-    except PlaywrightTimeoutError:
-        print("⚠ ページの読み込みに失敗しました。")
-        browser.close()
-        raise
-
-    print("▶ 記事を抽出しています...")
-    items = extract_items(
-        page,
-        SELECTOR_DATE,
-        SELECTOR_TITLE,
-        title_selector,
-        title_index,
-        href_selector,
-        href_index,
-        BASE_URL,
-        date_selector,
-        date_index,
-        date_format,
-        date_regex,
-    )
-
+    print(f"▶ NEW抽出件数: {len(items)}")
     if not items:
-        print("⚠ 抽出できた記事がありません。HTML構造が変わっている可能性があります。")
+        print("⚠ NEWに該当する項目がありませんでした。")
 
-    os.makedirs("rss_output", exist_ok=True)
-    rss_path = "rss_output/Feed1.xml"
-    generate_rss(items, rss_path, BASE_URL, GAKKAI)
-    browser.close()
+    rss_path = "rss_output/shingi_new.xml"
+    generate_rss(items, rss_path)
+
+    print("\n✅ RSSフィード生成完了！")
+    print(f"📄 保存先: {rss_path}")
