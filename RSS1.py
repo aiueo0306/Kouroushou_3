@@ -5,19 +5,21 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi/indexshingi.html"
+BASE_URL = "https://www.mhlw.go.jp/stf/kinnkyuuhininnyaku.html"
 
 
 # ==================================================
 # RSS生成（UTF-8 BOM付きで保存：Windows文字化け対策）
-# GUIDは URL + 更新日（同一URLでも更新日が変われば別アイテム扱いになりやすい）
+# GUIDはURLのみ（要望どおり）
 # ==================================================
 def generate_rss(items, output_path):
     fg = FeedGenerator()
-    fg.title("審議会・研究会等（NEW）")
+    fg.title("緊急避妊薬（更新）")
     fg.link(href=BASE_URL)
-    fg.description("厚生労働省 審議会・研究会等のNEW更新のみ")
+    fg.description("厚生労働省「緊急避妊薬」ページ内リンク一覧")
     fg.language("ja")
+
+    now_utc = datetime.now(timezone.utc)  # 日付が無いので共通の取得時刻を使う
 
     for item in items:
         entry = fg.add_entry()
@@ -25,34 +27,23 @@ def generate_rss(items, output_path):
         entry.link(href=item["link"])
         entry.description(item["description"])
 
-        # ✅ GUID：URLだけだと既読固定になりがちなので「URL#日付」にする
-        # pubdateが無い場合はURLのみ（保険）
-        if item.get("pubdate"):
-            guid = f'{item["link"]}#{item["pubdate"]}'
-        else:
-            guid = item["link"]
-        entry.guid(guid, permalink=False)
+        # ✅ GUID：URLのみ
+        entry.guid(item["link"], permalink=False)
 
-        # ✅ pubDate：ページ側の更新日を優先
-        if item.get("pubdate"):
-            # time datetime="YYYY-MM-DD" を UTC の 00:00 として扱う
-            dt = datetime.fromisoformat(item["pubdate"]).replace(tzinfo=timezone.utc)
-            entry.pubDate(dt)
-        else:
-            entry.pubDate(datetime.now(timezone.utc))
+        # ✅ pubDate：日付が無いので取得時刻
+        entry.pubDate(now_utc)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-    # FeedGeneratorはUTF-8 bytesを返す → BOM付きで保存（メモ帳でも文字化けしない）
     rss_text = fg.rss_str(pretty=True).decode("utf-8")
     with open(output_path, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write(rss_text)
 
 
 # ==================================================
-# NEW項目取得（span.m-listLink__link 単位で正確判定）
+# div.l-contentMain 内の li を全部対象に href を拾う
 # ==================================================
-def fetch_items_new_only():
+def fetch_items_all_li_links():
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -70,42 +61,35 @@ def fetch_items_new_only():
     soup = BeautifulSoup(html, "html.parser")
 
     items = []
-    seen = set()  # 「URL#日付」で重複排除する
+    seen = set()  # URL単位で重複排除
 
-    # ★ 重要：span.m-listLink__link 単位で NEW 判定
-    for span in soup.select("span.m-listLink__link"):
+    content = soup.select_one("div.l-contentMain")
+    if not content:
+        return items
 
-        # この span 自体に NEW アイコンがあるか？
-        if not span.select_one(".m-icnNew, .toggleIcnNew"):
-            continue
-
-        a = span.select_one("a[href]")
+    for li in content.select("li"):
+        a = li.select_one("a[href]")
         if not a:
             continue
 
         title = " ".join(a.get_text(" ", strip=True).split())
-        link = urljoin(BASE_URL, a.get("href"))
+        href = a.get("href")
+        link = urljoin(BASE_URL, href)
 
-        # 更新日（<time datetime="YYYY-MM-DD">）
-        time_tag = span.select_one("time[datetime]")
-        pubdate = time_tag["datetime"] if time_tag else None
+        if not title:
+            title = link  # 保険：テキストが空ならURLをタイトルに
 
-        description = title
-        if pubdate:
-            description = f"{title}（更新日: {pubdate}）"
-
-        # ✅ 重複排除：GUIDに合わせて URL#pubdate をキーにする
-        key = f"{link}#{pubdate}" if pubdate else link
-        if key in seen:
+        if link in seen:
             continue
-        seen.add(key)
+        seen.add(link)
 
-        items.append({
-            "title": title,
-            "link": link,
-            "description": description,
-            "pubdate": pubdate,  # "YYYY-MM-DD" or None
-        })
+        items.append(
+            {
+                "title": title,
+                "link": link,
+                "description": title,
+            }
+        )
 
     return items
 
@@ -117,16 +101,16 @@ if __name__ == "__main__":
     print("▶ ページHTMLを取得中（requests）...")
 
     try:
-        items = fetch_items_new_only()
+        items = fetch_items_all_li_links()
     except Exception as e:
         print("⚠ 取得に失敗しました:", e)
         raise SystemExit(1)
 
-    print(f"▶ NEW抽出件数: {len(items)}")
+    print(f"▶ 抽出件数: {len(items)}")
     if not items:
-        print("⚠ NEWに該当する項目がありませんでした。")
+        print("⚠ 対象の li/a[href] が見つかりませんでした。")
 
-    rss_path = "rss_output/shingi_new.xml"
+    rss_path = "rss_output/kinnkyuuhininnyaku.xml"
     generate_rss(items, rss_path)
 
     print("\n✅ RSSフィード生成完了！")
