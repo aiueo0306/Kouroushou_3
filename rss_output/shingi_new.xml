@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Dec 2025 10:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 11:22:13 +0000</lastBuildDate>
     <item>
       <title>労働基準局</title>
       <link>https://www.mhlw.go.jp/stf/shingi/indexshingiother_128808.html</link>
@@ -30,6 +30,13 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ハンセン病元患者家族補償金認定審査会</title>
+      <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
+      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2025-12-24）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>原子爆弾被爆者医療分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127700.html</link>
       <description>原子爆弾被爆者医療分科会（更新日: 2025-12-15）</description>
@@ -39,16 +46,9 @@
     <item>
       <title>感染症・予防接種審査分科会 及び 感染症・予防接種審査分科会新型コロナウイルス感染症予防接種健康被害審査部会（令和6年6月17日以降）</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00006.html</link>
-      <description>感染症・予防接種審査分科会 及び 感染症・予防接種審査分科会新型コロナウイルス感染症予防接種健康被害審査部会（令和6年6月17日以降）（更新日: 2025-12-19）</description>
+      <description>感染症・予防接種審査分科会 及び 感染症・予防接種審査分科会新型コロナウイルス感染症予防接種健康被害審査部会（令和6年6月17日以降）（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00006.html</guid>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>化学物質安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39215.html</link>
-      <description>化学物質安全対策部会（更新日: 2025-12-10）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39215.html</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>指定薬物部会</title>
@@ -88,9 +88,9 @@
     <item>
       <title>再生医療等製品・生物由来技術部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</link>
-      <description>再生医療等製品・生物由来技術部会（更新日: 2025-12-15）</description>
+      <description>再生医療等製品・生物由来技術部会（更新日: 2025-12-23）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</guid>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療機器・体外診断薬部会</title>
@@ -151,9 +151,9 @@
     <item>
       <title>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_443697.html</link>
-      <description>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会（更新日: 2025-12-18）</description>
+      <description>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_443697.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>人材開発分科会監理団体審査部会</title>
@@ -172,9 +172,9 @@
     <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2025-12-17）</description>
+      <description>労働条件分科会（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>受動喫煙対策専門委員会</title>
@@ -184,25 +184,18 @@
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>疾病対策部会指定難病検討委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</link>
-      <description>疾病対策部会指定難病検討委員会（更新日: 2025-12-10）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>疾病対策部会難病対策委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127746.html</link>
-      <description>疾病対策部会難病対策委員会（更新日: 2025-12-18）</description>
+      <description>疾病対策部会難病対策委員会（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127746.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>疾病対策部会臓器移植委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
-      <description>疾病対策部会臓器移植委員会（更新日: 2025-12-22）</description>
+      <description>疾病対策部会臓器移植委員会（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</guid>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護保険部会</title>
@@ -214,9 +207,9 @@
     <item>
       <title>小児慢性特定疾病対策委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126716_00005.html</link>
-      <description>小児慢性特定疾病対策委員会（更新日: 2025-12-18）</description>
+      <description>小児慢性特定疾病対策委員会（更新日: 2025-12-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126716_00005.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会</title>
