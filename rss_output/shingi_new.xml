@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Jan 2026 10:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 11:21:32 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -37,39 +37,11 @@
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>指定薬物部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</link>
-      <description>指定薬物部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医療機器・再生医療等製品安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39212.html</link>
-      <description>医療機器・再生医療等製品安全対策部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39212.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>安全対策調査会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</link>
       <description>安全対策調査会（更新日: 2025-12-22）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</guid>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医薬品等安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</link>
-      <description>医薬品等安全対策部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>要指導・一般用医薬品部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</link>
-      <description>要指導・一般用医薬品部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>再生医療等製品・生物由来技術部会</title>
@@ -79,32 +51,11 @@
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>医療機器・体外診断薬部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</link>
-      <description>医療機器・体外診断薬部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>運営委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
       <description>運営委員会（更新日: 2025-12-22）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</guid>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医薬品第二部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
-      <description>医薬品第二部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医薬品第一部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
-      <description>医薬品第一部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>副作用・感染等被害判定第二部会</title>
@@ -126,13 +77,6 @@
       <description>副作用・感染等被害判定第一部会（更新日: 2025-12-26）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</guid>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本薬局方部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39199.html</link>
-      <description>日本薬局方部会（更新日: 2025-12-18）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39199.html</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>薬事審議会</title>
