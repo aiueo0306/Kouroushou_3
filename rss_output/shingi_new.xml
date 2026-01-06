@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Jan 2026 10:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 11:22:35 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -18,9 +18,9 @@
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
-      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2025-12-24）</description>
+      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2026-01-06）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>感染症・予防接種審査分科会 及び 感染症・予防接種審査分科会新型コロナウイルス感染症予防接種健康被害審査部会（令和6年6月17日以降）</title>
@@ -30,18 +30,18 @@
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>再生医療等製品・生物由来技術部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</link>
-      <description>再生医療等製品・生物由来技術部会（更新日: 2025-12-23）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</guid>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>適正使用調査会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</link>
       <description>適正使用調査会（更新日: 2026-01-01）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>安全技術調査会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39218.html</link>
+      <description>安全技術調査会（更新日: 2026-01-06）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39218.html</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>運営委員会</title>
@@ -144,9 +144,9 @@
     <item>
       <title>医療保険部会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_28708.html</link>
-      <description>医療保険部会（更新日: 2025-12-26）</description>
+      <description>医療保険部会（更新日: 2026-01-06）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_28708.html</guid>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
