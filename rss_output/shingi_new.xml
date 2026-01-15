@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Jan 2026 10:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:23:32 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_26379.html</link>
@@ -23,25 +23,11 @@
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>適正使用調査会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</link>
-      <description>適正使用調査会（更新日: 2026-01-01）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>安全技術調査会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39218.html</link>
       <description>安全技術調査会（更新日: 2026-01-13）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39218.html</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>運営委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
-      <description>運営委員会（更新日: 2026-01-01）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>血液事業部会</title>
@@ -51,11 +37,25 @@
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>医薬品第二部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
+      <description>医薬品第二部会（更新日: 2026-01-15）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>医薬品第一部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
       <description>医薬品第一部会（更新日: 2026-01-09）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>副作用・感染等被害判定第二部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</link>
+      <description>副作用・感染等被害判定第二部会（更新日: 2026-01-15）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>薬事審議会</title>
