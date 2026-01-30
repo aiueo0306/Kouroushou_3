@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Jan 2026 10:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 11:32:01 +0000</lastBuildDate>
     <item>
       <title>労働基準局</title>
       <link>https://www.mhlw.go.jp/stf/shingi/indexshingiother_128808.html</link>
@@ -44,6 +44,13 @@
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>中央最低賃金審議会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</link>
+      <description>中央最低賃金審議会（更新日: 2026-01-30）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>指定薬物部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</link>
       <description>指定薬物部会（更新日: 2026-01-19）</description>
@@ -56,13 +63,6 @@
       <description>安全対策調査会（更新日: 2026-01-28）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医薬品等安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</link>
-      <description>医薬品等安全対策部会（更新日: 2026-01-16）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>要指導・一般用医薬品部会</title>
@@ -123,9 +123,9 @@
     <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2026-01-22）</description>
+      <description>労働条件分科会（更新日: 2026-01-30）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働政策審議会について</title>
@@ -163,13 +163,6 @@
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>年金事業管理部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html</link>
-      <description>年金事業管理部会（更新日: 2026-01-16）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>医療部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link>
       <description>医療部会（更新日: 2026-01-26）</description>
@@ -184,18 +177,25 @@
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>医療保険部会 治療用装具療養費検討専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_336720.html</link>
+      <description>医療保険部会 治療用装具療養費検討専門委員会（更新日: 2026-01-30）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_336720.html</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html</link>
-      <description>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会（更新日: 2026-01-23）</description>
+      <description>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会（更新日: 2026-01-30）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会 柔道整復療養費検討専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</link>
-      <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-01-23）</description>
+      <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-01-30）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会</title>
