@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Feb 2026 10:52:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 11:42:38 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -74,9 +74,9 @@
     <item>
       <title>医薬品第二部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
-      <description>医薬品第二部会（更新日: 2026-02-05）</description>
+      <description>医薬品第二部会（更新日: 2026-02-12）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第一部会</title>
@@ -84,6 +84,20 @@
       <description>医薬品第一部会（更新日: 2026-02-02）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>副作用・感染等被害判定第一部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</link>
+      <description>副作用・感染等被害判定第一部会（更新日: 2026-02-12）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人材開発分科会監理団体審査部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html</link>
+      <description>人材開発分科会監理団体審査部会（更新日: 2026-02-12）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>勤労者生活分科会中小企業退職金共済部会</title>
@@ -158,9 +172,9 @@
     <item>
       <title>医療保険部会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_28708.html</link>
-      <description>医療保険部会（更新日: 2026-02-03）</description>
+      <description>医療保険部会（更新日: 2026-02-12）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_28708.html</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
