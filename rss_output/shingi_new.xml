@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Mar 2026 10:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:35:59 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -142,6 +142,13 @@
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>受動喫煙対策専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</link>
+      <description>受動喫煙対策専門委員会（更新日: 2026-03-10）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>匿名指定難病関連情報の提供に関する専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00008.html</link>
       <description>匿名指定難病関連情報の提供に関する専門委員会（更新日: 2026-02-18）</description>
@@ -154,6 +161,13 @@
       <description>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（更新日: 2026-02-25）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>介護保険部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link>
+      <description>介護保険部会（更新日: 2026-03-03）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>年金事業管理部会</title>
