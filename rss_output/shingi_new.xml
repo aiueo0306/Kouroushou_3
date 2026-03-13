@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 10:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:34:43 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -37,25 +37,11 @@
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>目安制度の在り方に関する全員協議会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html</link>
-      <description>目安制度の在り方に関する全員協議会（更新日: 2026-02-27）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>中央最低賃金審議会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</link>
-      <description>中央最低賃金審議会（更新日: 2026-02-27）</description>
+      <description>中央最低賃金審議会（更新日: 2026-03-13）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>化学物質安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39215.html</link>
-      <description>化学物質安全対策部会（更新日: 2026-02-27）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39215.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>指定薬物部会</title>
@@ -63,13 +49,6 @@
       <description>指定薬物部会（更新日: 2026-03-02）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医薬品等安全対策部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</link>
-      <description>医薬品等安全対策部会（更新日: 2026-02-27）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>再生医療等製品・生物由来技術部会</title>
@@ -144,9 +123,9 @@
     <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2026-03-06）</description>
+      <description>労働条件分科会（更新日: 2026-03-13）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>受動喫煙対策専門委員会</title>
@@ -182,13 +161,6 @@
       <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-03-09）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生活保護基準部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
-      <description>生活保護基準部会（更新日: 2026-02-27）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
