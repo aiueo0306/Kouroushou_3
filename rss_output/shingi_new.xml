@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:38:33 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
       <description>特定石綿被害建設業務労働者等認定審査会（更新日: 2026-03-11）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_23508.html</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>肝炎対策推進協議会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</link>
-      <description>肝炎対策推進協議会（更新日: 2026-03-05）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
@@ -65,13 +58,6 @@
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>医薬品第一部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
-      <description>医薬品第一部会（更新日: 2026-03-05）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>副作用・感染等被害判定第二部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</link>
       <description>副作用・感染等被害判定第二部会（更新日: 2026-03-12）</description>
@@ -86,11 +72,25 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>労働政策基本部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</link>
+      <description>労働政策基本部会（更新日: 2026-03-19）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>勤労者生活分科会中小企業退職金共済部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126978.html</link>
       <description>勤労者生活分科会中小企業退職金共済部会（更新日: 2026-03-17）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126978.html</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>勤労者生活分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</link>
+      <description>勤労者生活分科会（更新日: 2026-03-19）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
@@ -102,9 +102,9 @@
     <item>
       <title>健康危機管理部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127765.html</link>
-      <description>健康危機管理部会（更新日: 2026-03-17）</description>
+      <description>健康危機管理部会（更新日: 2026-03-19）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127765.html</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>受動喫煙対策専門委員会</title>
@@ -121,32 +121,25 @@
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>医療部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link>
-      <description>医療部会（更新日: 2026-03-05）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html</link>
-      <description>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会（更新日: 2026-03-09）</description>
+      <description>医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会（更新日: 2026-03-19）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会 柔道整復療養費検討専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</link>
-      <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-03-09）</description>
+      <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-03-19）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_28708.html</link>
-      <description>医療保険部会（更新日: 2026-03-17）</description>
+      <description>医療保険部会（更新日: 2026-03-19）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_28708.html</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
