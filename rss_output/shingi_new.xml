@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:42:20 +0000</lastBuildDate>
     <item>
       <title>アルコール健康障害対策関係者会議</title>
       <link>https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html</link>
@@ -37,18 +37,32 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>毒物劇物部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39214.html</link>
+      <description>毒物劇物部会（更新日: 2026-04-01）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39214.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>医薬品等安全対策部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</link>
+      <description>医薬品等安全対策部会（更新日: 2026-04-01）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>運営委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
-      <description>運営委員会（更新日: 2026-03-31）</description>
+      <description>運営委員会（更新日: 2026-04-01）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第二部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
-      <description>医薬品第二部会（更新日: 2026-03-27）</description>
+      <description>医薬品第二部会（更新日: 2026-04-01）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第一部会</title>
@@ -112,6 +126,13 @@
       <description>勤労者生活分科会（更新日: 2026-03-25）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>労働条件分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
+      <description>労働条件分科会（更新日: 2026-04-01）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>健康危機管理部会</title>
