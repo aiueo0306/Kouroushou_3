@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2026 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 11:58:52 +0000</lastBuildDate>
     <item>
       <title>アルコール健康障害対策関係者会議</title>
       <link>https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html</link>
@@ -154,6 +154,13 @@
       <description>医療保険部会 柔道整復療養費検討専門委員会（更新日: 2026-03-27）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>生活保護基準部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
+      <description>生活保護基準部会（更新日: 2026-04-07）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
