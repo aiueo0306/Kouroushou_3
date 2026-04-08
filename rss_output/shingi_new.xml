@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:26:40 +0000</lastBuildDate>
     <item>
       <title>アルコール健康障害対策関係者会議</title>
       <link>https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html</link>
@@ -21,13 +21,6 @@
       <description>肝炎対策推進協議会（更新日: 2026-03-31）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハンセン病元患者家族補償金認定審査会</title>
-      <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
-      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2026-03-25）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>目安制度の在り方に関する全員協議会</title>
@@ -79,32 +72,11 @@
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>薬剤師国家試験制度改善検討部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-idou_127804.html</link>
-      <description>薬剤師国家試験制度改善検討部会（更新日: 2026-03-25）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-idou_127804.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>労働政策基本部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</link>
-      <description>労働政策基本部会（更新日: 2026-03-25）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_443697.html</link>
       <description>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会（更新日: 2026-03-31）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_443697.html</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>勤労者生活分科会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</link>
-      <description>勤労者生活分科会（更新日: 2026-03-25）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
@@ -161,6 +133,13 @@
       <description>生活保護基準部会（更新日: 2026-04-07）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>介護給付費分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link>
+      <description>介護給付費分科会（更新日: 2026-04-08）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
