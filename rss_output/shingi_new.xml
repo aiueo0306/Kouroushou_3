@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:49:33 +0000</lastBuildDate>
     <item>
       <title>アルコール健康障害対策関係者会議</title>
       <link>https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html</link>
@@ -44,6 +44,13 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>要指導・一般用医薬品部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</link>
+      <description>要指導・一般用医薬品部会（更新日: 2026-04-09）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>運営委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
       <description>運営委員会（更新日: 2026-04-01）</description>
@@ -58,18 +65,11 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>副作用・感染等被害判定第二部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</link>
-      <description>副作用・感染等被害判定第二部会（更新日: 2026-03-26）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>副作用・感染等被害判定第一部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</link>
-      <description>副作用・感染等被害判定第一部会（更新日: 2026-03-26）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <title>医薬品第一部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
+      <description>医薬品第一部会（更新日: 2026-04-09）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>職業安定分科会・雇用環境・均等分科会同一労働同一賃金部会</title>
@@ -84,6 +84,13 @@
       <description>労働条件分科会（更新日: 2026-04-01）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>労働政策審議会について</title>
+      <link>https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudouzenpan/roudouseisaku/index.html</link>
+      <description>労働政策審議会について（更新日: 2026-04-09）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudouzenpan/roudouseisaku/index.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>受動喫煙対策専門委員会</title>
