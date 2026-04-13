@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:19:07 +0000</lastBuildDate>
     <item>
       <title>肝炎対策推進協議会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</link>
@@ -42,6 +42,13 @@
       <description>要指導・一般用医薬品部会（更新日: 2026-04-09）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>再生医療等製品・生物由来技術部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</link>
+      <description>再生医療等製品・生物由来技術部会（更新日: 2026-04-13）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>献血推進調査会</title>
@@ -105,6 +112,13 @@
       <description>受動喫煙対策専門委員会（更新日: 2026-03-31）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>疾病対策部会臓器移植委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
+      <description>疾病対策部会臓器移植委員会（更新日: 2026-04-13）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>匿名感染症関連情報の第三者提供に関する小委員会</title>
