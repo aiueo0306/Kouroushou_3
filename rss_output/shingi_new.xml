@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:48:26 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -60,9 +60,9 @@
     <item>
       <title>医薬品第一部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
-      <description>医薬品第一部会（更新日: 2026-04-17）</description>
+      <description>医薬品第一部会（更新日: 2026-04-27）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>副作用・感染等被害判定第二部会</title>
@@ -102,16 +102,16 @@
     <item>
       <title>職業安定分科会労働力需給制度部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
-      <description>職業安定分科会労働力需給制度部会（更新日: 2026-04-21）</description>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-04-28）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2026-04-21）</description>
+      <description>労働条件分科会（更新日: 2026-04-28）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>受動喫煙対策専門委員会</title>
@@ -119,6 +119,13 @@
       <description>受動喫煙対策専門委員会（更新日: 2026-04-15）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>匿名指定難病関連情報の提供に関する専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00008.html</link>
+      <description>匿名指定難病関連情報の提供に関する専門委員会（更新日: 2026-04-28）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00008.html</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>疾病対策部会臓器移植委員会</title>
@@ -135,11 +142,11 @@
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>生活保護基準部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
-      <description>生活保護基準部会（更新日: 2026-04-14）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <title>匿名小児慢性特定疾病関連情報の提供に関する専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00009.html</link>
+      <description>匿名小児慢性特定疾病関連情報の提供に関する専門委員会（更新日: 2026-04-28）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00009.html</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>福祉部会</title>
