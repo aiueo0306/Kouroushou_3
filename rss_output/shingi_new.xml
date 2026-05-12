@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 May 2026 10:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:05:43 +0000</lastBuildDate>
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
@@ -35,13 +35,6 @@
       <description>医薬品第一部会（更新日: 2026-05-08）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>職業安定分科会労働力需給制度部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
-      <description>職業安定分科会労働力需給制度部会（更新日: 2026-04-28）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>職業安定分科会</title>
@@ -72,18 +65,11 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>匿名指定難病関連情報の提供に関する専門委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00008.html</link>
-      <description>匿名指定難病関連情報の提供に関する専門委員会（更新日: 2026-04-28）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00008.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>匿名小児慢性特定疾病関連情報の提供に関する専門委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00009.html</link>
-      <description>匿名小児慢性特定疾病関連情報の提供に関する専門委員会（更新日: 2026-04-28）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kenkou_128641_00009.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <title>受動喫煙対策専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</link>
+      <description>受動喫煙対策専門委員会（更新日: 2026-05-12）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127752_00008.html</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会 柔道整復療養費検討専門委員会</title>
