@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 00:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 04:18:49 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -25,9 +25,9 @@
     <item>
       <title>目安に関する小委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html</link>
-      <description>目安に関する小委員会（更新日: 2026-07-10）</description>
+      <description>目安に関する小委員会（更新日: 2026-07-17）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>化学物質安全対策部会</title>
@@ -37,11 +37,11 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>指定薬物部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</link>
-      <description>指定薬物部会（更新日: 2026-07-08）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39213.html</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <title>安全対策調査会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</link>
+      <description>安全対策調査会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品等安全対策部会</title>
@@ -51,6 +51,41 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>要指導・一般用医薬品部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</link>
+      <description>要指導・一般用医薬品部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>再生医療等製品・生物由来技術部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</link>
+      <description>再生医療等製品・生物由来技術部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>医薬品再評価部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39207.html</link>
+      <description>医薬品再評価部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39207.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>医療機器・体外診断薬部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</link>
+      <description>医療機器・体外診断薬部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>献血推進調査会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39221.html</link>
+      <description>献血推進調査会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39221.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>適正使用調査会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</link>
       <description>適正使用調査会（更新日: 2026-07-15）</description>
@@ -58,25 +93,32 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>運営委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
+      <description>運営委員会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>血液事業部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39205.html</link>
-      <description>血液事業部会（更新日: 2026-07-09）</description>
+      <description>血液事業部会（更新日: 2026-07-17）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39205.html</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第二部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
-      <description>医薬品第二部会（更新日: 2026-07-13）</description>
+      <description>医薬品第二部会（更新日: 2026-07-21）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第一部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
-      <description>医薬品第一部会（更新日: 2026-07-14）</description>
+      <description>医薬品第一部会（更新日: 2026-07-17）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>副作用・感染等被害判定第二部会</title>
@@ -86,18 +128,18 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>職業安定分科会労働力需給制度部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>勤労者生活分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</link>
       <description>勤労者生活分科会（更新日: 2026-07-14）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>安全衛生分科会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126972.html</link>
-      <description>安全衛生分科会（更新日: 2026-07-06）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126972.html</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
@@ -121,13 +163,6 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>疾病対策部会指定難病検討委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</link>
-      <description>疾病対策部会指定難病検討委員会（更新日: 2026-07-03）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>疾病対策部会臓器移植委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
       <description>疾病対策部会臓器移植委員会（更新日: 2026-07-15）</description>
@@ -142,11 +177,18 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>年金事業管理部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html</link>
-      <description>年金事業管理部会（更新日: 2026-07-07）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <title>科学技術部会ヒト受精胚を用いる研究に関する審査専門委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_472658_00001.html</link>
+      <description>科学技術部会ヒト受精胚を用いる研究に関する審査専門委員会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_472658_00001.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>資金運用部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_439756.html</link>
+      <description>資金運用部会（更新日: 2026-07-17）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_439756.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護給付費分科会</title>
