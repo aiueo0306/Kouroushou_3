@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:49:34 +0000</lastBuildDate>
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
@@ -28,13 +28,6 @@
       <description>要指導・一般用医薬品部会（更新日: 2026-09-15）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39209.html</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>適正使用調査会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</link>
-      <description>適正使用調査会（更新日: 2026-09-04）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39219.html</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>運営委員会</title>
@@ -65,11 +58,11 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>勤労者生活分科会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</link>
-      <description>勤労者生活分科会（更新日: 2026-09-04）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126976.html</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <title>職業安定分科会労働力需給制度部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-09-18）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
