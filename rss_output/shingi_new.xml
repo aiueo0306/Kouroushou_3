@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:23:20 +0000</lastBuildDate>
+    <item>
+      <title>肝炎対策推進協議会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</link>
+      <description>肝炎対策推進協議会（更新日: 2026-09-24）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
@@ -44,13 +51,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>薬事審議会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39197.html</link>
-      <description>薬事審議会（更新日: 2026-09-10）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39197.html</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>人材開発分科会監理団体審査部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html</link>
       <description>人材開発分科会監理団体審査部会（更新日: 2026-09-17）</description>
@@ -63,6 +63,13 @@
       <description>職業安定分科会労働力需給制度部会（更新日: 2026-09-18）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>勤労者生活分科会中小企業退職金共済部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126978.html</link>
+      <description>勤労者生活分科会中小企業退職金共済部会（更新日: 2026-09-24）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126978.html</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会</title>
