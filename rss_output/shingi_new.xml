@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:23:59 +0000</lastBuildDate>
     <item>
       <title>肝炎対策推進協議会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</link>
       <description>肝炎対策推進協議会（更新日: 2026-09-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kanen_128247.html</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハンセン病元患者家族補償金認定審査会</title>
-      <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
-      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2026-09-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>安全対策調査会</title>
@@ -51,6 +44,20 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>労働政策基本部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</link>
+      <description>労働政策基本部会（更新日: 2026-09-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_471121.html</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>雇用環境・均等分科会（旧雇用均等分科会）</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html</link>
+      <description>雇用環境・均等分科会（旧雇用均等分科会）（更新日: 2026-09-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>人材開発分科会監理団体審査部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html</link>
       <description>人材開発分科会監理団体審査部会（更新日: 2026-09-17）</description>
@@ -60,9 +67,16 @@
     <item>
       <title>職業安定分科会労働力需給制度部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
-      <description>職業安定分科会労働力需給制度部会（更新日: 2026-09-18）</description>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-09-25）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>職業安定分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126979.html</link>
+      <description>職業安定分科会（更新日: 2026-09-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126979.html</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>勤労者生活分科会中小企業退職金共済部会</title>
@@ -79,20 +93,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>食品衛生監視部会伝達性海綿状脳症対策に関する小委員会</title>
-      <link>https://www.mhlw.go.jp/stf/newpage_75968.html</link>
-      <description>食品衛生監視部会伝達性海綿状脳症対策に関する小委員会（更新日: 2026-09-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_75968.html</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>科学技術部会ヒト受精胚を用いる研究に関する審査専門委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_472658_00001.html</link>
-      <description>科学技術部会ヒト受精胚を用いる研究に関する審査専門委員会（更新日: 2026-09-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_472658_00001.html</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>介護保険部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link>
       <description>介護保険部会（更新日: 2026-09-18）</description>
@@ -105,6 +105,13 @@
       <description>年金事業管理部会（更新日: 2026-09-14）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>資金運用部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_439756.html</link>
+      <description>資金運用部会（更新日: 2026-09-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_439756.html</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療保険部会</title>
