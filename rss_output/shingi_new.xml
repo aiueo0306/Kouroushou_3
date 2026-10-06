@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 07:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:52:42 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -100,6 +100,20 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>労働条件分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
+      <description>労働条件分科会（更新日: 2026-10-06）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>疾病対策部会指定難病検討委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</link>
+      <description>疾病対策部会指定難病検討委員会（更新日: 2026-10-06）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>疾病対策部会臓器移植委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
       <description>疾病対策部会臓器移植委員会（更新日: 2026-10-05）</description>
@@ -109,9 +123,9 @@
     <item>
       <title>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html</link>
-      <description>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（更新日: 2026-09-30）</description>
+      <description>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（更新日: 2026-10-06）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>資金運用部会</title>
@@ -130,9 +144,9 @@
     <item>
       <title>生活保護基準部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
-      <description>生活保護基準部会（更新日: 2026-09-29）</description>
+      <description>生活保護基準部会（更新日: 2026-10-06）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
