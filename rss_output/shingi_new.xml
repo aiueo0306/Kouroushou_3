@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:55:56 +0000</lastBuildDate>
+    <item>
+      <title>特定石綿被害建設業務労働者等認定審査会</title>
+      <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
+      <description>特定石綿被害建設業務労働者等認定審査会（更新日: 2026-10-21）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_23508.html</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ハンセン病元患者家族補償金認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
@@ -58,13 +65,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>医薬品第二部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
-      <description>医薬品第二部会（更新日: 2026-10-07）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>医薬品第一部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</link>
       <description>医薬品第一部会（更新日: 2026-10-09）</description>
@@ -72,11 +72,18 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>副作用・感染等被害判定第二部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</link>
+      <description>副作用・感染等被害判定第二部会（更新日: 2026-10-21）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>副作用・感染等被害判定第一部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</link>
-      <description>副作用・感染等被害判定第一部会（更新日: 2026-10-15）</description>
+      <description>副作用・感染等被害判定第一部会（更新日: 2026-10-21）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39201.html</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>雇用環境・均等分科会（旧雇用均等分科会）</title>
@@ -116,23 +123,9 @@
     <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2026-10-16）</description>
+      <description>労働条件分科会（更新日: 2026-10-20）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>疾病対策部会臓器移植委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
-      <description>疾病対策部会臓器移植委員会（更新日: 2026-10-07）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html</link>
-      <description>ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（更新日: 2026-10-07）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護保険部会</title>
@@ -147,6 +140,13 @@
       <description>医療保険部会（更新日: 2026-10-16）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_28708.html</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>生活保護基準部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
+      <description>生活保護基準部会（更新日: 2026-10-21）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護給付費分科会</title>
