@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:55:50 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
       <description>特定石綿被害建設業務労働者等認定審査会（更新日: 2026-10-21）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_23508.html</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハンセン病元患者家族補償金認定審査会</title>
-      <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
-      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2026-10-08）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>目安制度の在り方に関する全員協議会</title>
@@ -44,11 +37,11 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>再生医療等製品・生物由来技術部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</link>
-      <description>再生医療等製品・生物由来技術部会（更新日: 2026-10-08）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <title>医薬品等安全対策部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</link>
+      <description>医薬品等安全対策部会（更新日: 2026-10-22）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39211.html</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医療機器・体外診断薬部会</title>
@@ -63,6 +56,13 @@
       <description>安全技術調査会（更新日: 2026-10-20）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39218.html</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>医薬品第二部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
+      <description>医薬品第二部会（更新日: 2026-10-22）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>医薬品第一部会</title>
