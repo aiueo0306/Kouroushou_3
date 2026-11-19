@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:26:51 +0000</lastBuildDate>
-    <item>
-      <title>特定石綿被害建設業務労働者等認定審査会専門委員会</title>
-      <link>https://www.mhlw.go.jp/stf/newpage_26379.html</link>
-      <description>特定石綿被害建設業務労働者等認定審査会専門委員会（更新日: 2026-11-05）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_26379.html</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 20:12:00 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -44,13 +37,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>運営委員会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</link>
-      <description>運営委員会（更新日: 2026-11-05）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39222.html</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>医薬品第二部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39204.html</link>
       <description>医薬品第二部会（更新日: 2026-11-16）</description>
@@ -63,6 +49,20 @@
       <description>医薬品第一部会（更新日: 2026-11-18）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39203.html</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>副作用・感染等被害判定第二部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</link>
+      <description>副作用・感染等被害判定第二部会（更新日: 2026-11-19）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39202.html</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>職業安定分科会労働力需給制度部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-11-19）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>労働条件分科会組織再編に伴う労働関係の調整に関する部会</title>
@@ -116,9 +116,9 @@
     <item>
       <title>介護給付費分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link>
-      <description>介護給付費分科会（更新日: 2026-11-16）</description>
+      <description>介護給付費分科会（更新日: 2026-11-19）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
