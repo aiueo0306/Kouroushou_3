@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:19:56 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -16,25 +16,18 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ハンセン病元患者家族補償金認定審査会</title>
+      <link>https://www.mhlw.go.jp/stf/newpage_09427.html</link>
+      <description>ハンセン病元患者家族補償金認定審査会（更新日: 2026-11-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_09427.html</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中央最低賃金審議会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</link>
       <description>中央最低賃金審議会（更新日: 2026-11-20）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>安全対策調査会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</link>
-      <description>安全対策調査会（更新日: 2026-11-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>医療機器・体外診断薬部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</link>
-      <description>医療機器・体外診断薬部会（更新日: 2026-11-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>血液事業部会</title>
@@ -72,25 +65,25 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>労働条件分科会組織再編に伴う労働関係の調整に関する部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi-rousei_00001.html</link>
-      <description>労働条件分科会組織再編に伴う労働関係の調整に関する部会（更新日: 2026-11-11）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-rousei_00001.html</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>労働条件分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</link>
-      <description>労働条件分科会（更新日: 2026-11-20）</description>
+      <description>労働条件分科会（更新日: 2026-11-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>疾病対策部会指定難病検討委員会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</link>
+      <description>疾病対策部会指定難病検討委員会（更新日: 2026-11-25）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_206844.html</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>疾病対策部会臓器移植委員会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</link>
-      <description>疾病対策部会臓器移植委員会（更新日: 2026-11-20）</description>
+      <description>疾病対策部会臓器移植委員会（更新日: 2026-11-25）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護保険部会</title>
@@ -123,9 +116,9 @@
     <item>
       <title>介護給付費分科会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link>
-      <description>介護給付費分科会（更新日: 2026-11-20）</description>
+      <description>介護給付費分科会（更新日: 2026-11-25）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
