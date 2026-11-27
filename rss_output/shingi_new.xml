@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:55:48 +0000</lastBuildDate>
     <item>
       <title>特定石綿被害建設業務労働者等認定審査会</title>
       <link>https://www.mhlw.go.jp/stf/newpage_23508.html</link>
@@ -28,6 +28,13 @@
       <description>中央最低賃金審議会（更新日: 2026-11-20）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>医療機器・体外診断薬部会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</link>
+      <description>医療機器・体外診断薬部会（更新日: 2026-11-27）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi-yakuji_39206.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>血液事業部会</title>
@@ -60,9 +67,16 @@
     <item>
       <title>職業安定分科会労働力需給制度部会</title>
       <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</link>
-      <description>職業安定分科会労働力需給制度部会（更新日: 2026-11-19）</description>
+      <description>職業安定分科会労働力需給制度部会（更新日: 2026-11-27）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>職業安定分科会</title>
+      <link>https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126979.html</link>
+      <description>職業安定分科会（更新日: 2026-11-27）</description>
+      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126979.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>勤労者生活分科会中小企業退職金共済部会</title>
@@ -112,13 +126,6 @@
       <description>医療保険部会（更新日: 2026-11-24）</description>
       <guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_28708.html</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生活保護基準部会</title>
-      <link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</link>
-      <description>生活保護基準部会（更新日: 2026-11-13）</description>
-      <guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126702.html</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>介護給付費分科会</title>
